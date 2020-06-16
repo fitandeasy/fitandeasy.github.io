@@ -7,8 +7,8 @@ html {
   scroll-padding-top: 70px;
 }
 
-a{
-  color:#efa967;
+a {
+  color: #efa967;
 }
 
 .center {
@@ -21,8 +21,8 @@ a{
   border-radius: .3rem;
 }
 
-.btn{
-  -webkit-appearance: button-bevel!important;
+.btn {
+  -webkit-appearance: button-bevel !important;
 }
 
 .navbar-toggler,
@@ -102,12 +102,14 @@ p a:visited {
   #prosecco-wall .pt-5 {
     padding-top: 0px !important;
   }
+
   .splash-60 {
-    height: 80vh!important;
+    height: 80vh !important;
   }
+
   .post img {
-    margin-top: 20px!important;
-    margin-bottom: 20px!important;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
   }
 }
 
@@ -118,23 +120,62 @@ p a:visited {
   transform: translate(50%, -50%);
 }
 
-.page-title{
-  font-size: 2rem!important;
+.page-title {
+  font-size: 2rem !important;
 }
 
-html .bg-dark{
-  background-color: #424242!important;
+html .bg-dark {
+  background-color: #424242 !important;
 }
-.footer a{
-  color:#efa967;
+
+.footer a {
+  color: #efa967;
 }
 
 
 // Fit and Easy
-
-.swirl{
+.swirl {
   z-index: 10;
   position: relative;
-  top: 25%;
+  top: 50%;
   transform: translate(0, -50%);
+}
+
+.swirl {
+  fill-opacity: 0;
+  fill: #fff !important;
+  stroke: #fff;
+  stroke-width: 1;
+  stroke-dasharray: 700;
+  stroke-dashoffset: 700;
+  animation: draw 3.5s linear;
+  animation-name: draw;
+  animation-duration: 3.5s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  animation-delay: 1s;
+}
+.swirl .st1 {
+  animation-delay: 1.4s;
+}
+.swirl .st2 {
+  animation-delay: 1.8s;
+}
+
+@keyframes draw {
+  70% {
+    stroke-dashoffset: 0;
+    stroke-width: 1;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-width: 0;
+  }
+}
+
+@media (max-width:425px){
+  .swirl{
+    transform: scale(2);
+  }
 }
