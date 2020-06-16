@@ -1,0 +1,140 @@
+/**
+ * Site styling
+ */
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 70px;
+}
+
+a{
+  color:#efa967;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.soft-edges {
+  border-radius: .3rem;
+}
+
+.btn{
+  -webkit-appearance: button-bevel!important;
+}
+
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:hover {
+  border: none !important;
+  outline: none !important;
+}
+
+.solidnav .icon-bar {
+  background-color: #efa967 !important;
+}
+
+.newnavbar {
+  transition: ease all .3s;
+}
+
+@media (max-width:425px) {
+  .navbar-brand {
+    padding-top: 1.3125rem !important;
+    padding-bottom: 1.3125rem !important;
+  }
+
+  #social .facebook-button {
+    margin-right: 0px !important;
+  }
+
+  .modal-footer>* {
+    font-size: .8rem !important;
+  }
+
+  .btn {
+    padding: 0.75rem 1rem !important;
+  }
+}
+
+.newnavbar.solidnav {
+  min-height: initial;
+  transition: ease all .3s;
+}
+
+@media (min-width:426px) {
+  .order-first {
+    order: 0 !important;
+  }
+
+  #prosecco-wall .content {
+    padding-left: 3rem;
+  }
+}
+
+p a:link,
+p a:visited {
+  border-bottom: 2px solid #5d025f;
+}
+
+.no-border {
+  border: none !important;
+}
+
+.image-shadow {
+  box-shadow: 14px 14px #5d025f;
+  transition: ease box-shadow 5s;
+}
+
+@media(max-width:425px) {
+  .image-shadow {
+    box-shadow: 4px 4px #5d025f;
+  }
+}
+
+@media(max-width:425px) {
+  #doughnut-wall .pb-5 {
+    padding-bottom: 0px !important;
+  }
+
+  #prosecco-wall .pt-5 {
+    padding-top: 0px !important;
+  }
+  .splash-60 {
+    height: 80vh!important;
+  }
+  .post img {
+    margin-top: 20px!important;
+    margin-bottom: 20px!important;
+  }
+}
+
+.down-arrow {
+  position: absolute;
+  bottom: 10px;
+  right: 50%;
+  transform: translate(50%, -50%);
+}
+
+.page-title{
+  font-size: 2rem!important;
+}
+
+html .bg-dark{
+  background-color: #424242!important;
+}
+.footer a{
+  color:#efa967;
+}
+
+
+// Fit and Easy
+
+.swirl{
+  z-index: 10;
+  position: relative;
+  top: 25%;
+  transform: translate(0, -50%);
+}

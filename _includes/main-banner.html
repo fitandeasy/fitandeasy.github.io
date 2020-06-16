@@ -1,0 +1,49 @@
+<div class="splash-60" id="hero-header"
+  style="background-image: url({{site.baseurl}}/assets/images/banners/{{page.img}}); background-size: cover;position: relative;">
+
+  <!-- <a href="{{ post.url }}"> -->
+
+  <div class="splash-video-wrapper">
+
+    <div style="background-image: linear-gradient(to bottom right, #{{page.color-1}}, #{{page.color-2}});"
+      class="project-image-gradient"></div>
+
+    <!-- <video class="splash-video" playsinline="" autoplay="" muted="" loop=""
+      poster="{{site.baseurl}}/assets/images/banners/{{poster.img}}" id="bgvid">
+      <source class="splash-video" src="{{site.baseurl}}/assets/video/{{post.video}}" type="video/mp4">
+    </video> -->
+
+  </div>
+
+  <div class="swirl">
+    <img src="{{site.baseurl}}/assets/images/brand/swirl.svg" alt="" srcset="">
+  </div>
+
+  <div class="site-container container splash-overlay">
+    <div class="header-content-container">
+      <div class="splash-headline">
+        <div id="main-project">
+
+          <div class="main-project-name text-light">
+            <h1 class="wow animate fadeInDown" data-wow-delay=".5s">{{ page.title | escape }}</h1>
+            <div class="subtitle mt-2 text-light wow animate fadeInDown" data-wow-delay="1s">
+              <h2>{{ page.subtitle | escape}}</h2>
+            </div>
+            <a data-toggle="modal" data-target="#contactUsModal" href="#contact-us"
+              class=" btn btn-primary mt-3 wow animate fadeInDown"  data-wow-delay="1.5s">Contact Us</a>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="down-arrow">
+    <a class="down-arrow-click" href="#about-us">
+      <i class="fas fa-2x fa-chevron-down text-white"></i>
+    </a>
+  </div>
+
+  <!-- </a> -->
+</div>
