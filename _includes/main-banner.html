@@ -1,4 +1,4 @@
-<div class="splash-60" id="hero-header"
+<div class="splash-60 wow animate fadeIn" id="hero-header"
   style="background-image: url({{site.baseurl}}/assets/images/banners/{{page.img}}); background-size: cover;position: relative;">
 
   <!-- <a href="{{ post.url }}"> -->
@@ -15,8 +15,8 @@
 
   </div>
 
-  <div class="swirl">
-    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  <div class="swirl wow animate fadeIn">
+    <svg version="1.1" class="wow animate fadeIn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
       x="0px" y="0px" viewBox="0 0 595.3 98" style="enable-background:new 0 0 595.3 98;" xml:space="preserve">
 
       <path class="st1"
@@ -42,12 +42,14 @@
         <div id="main-project">
 
           <div class="main-project-name text-light">
-            <h1 class="wow animate fadeInDown" data-wow-delay="4s">{{ page.title | escape }}</h1>
-            <div class="subtitle mt-2 text-light wow animate fadeInDown" data-wow-delay="4.5s">
+            <h1 class="wow animate fadeInDown" data-wow-delay="2s">{{ page.title | escape }}</h1>
+            <div class="subtitle mt-2 text-light wow animate fadeInDown" data-wow-delay="2.5s">
               <h2>{{ page.subtitle | escape}}</h2>
             </div>
             <a data-toggle="modal" data-target="#contactUsModal" href="#contact-us"
-              class=" btn btn-primary mt-3 wow animate fadeInDown" data-wow-delay="5s">Contact Us</a>
+              class=" btn btn-primary mt-3 wow animate fadeInDown" data-wow-delay="3s">Contact Us</a>
+              <a data-toggle="modal" data-target="#tryForFreeModal" href="#contact-us"
+              class=" btn btn-tertiary mt-3 wow animate fadeInDown" data-wow-delay="3.2s">Start your Free Trial</a>
 
           </div>
 
@@ -64,3 +66,13 @@
 
   <!-- </a> -->
 </div>
+
+
+<style>
+  .swirl{
+    z-index: 1;
+  }
+  .splash-headline{
+    z-index: 2;
+  }
+</style>

@@ -8,7 +8,10 @@ html {
 }
 
 a {
-  color: #efa967;
+  color: #5c015e;
+}
+a:hover{
+  color:#ab56b5
 }
 
 .center {
@@ -68,10 +71,6 @@ a {
   .order-first {
     order: 0 !important;
   }
-
-  #prosecco-wall .content {
-    padding-left: 3rem;
-  }
 }
 
 p a:link,
@@ -95,18 +94,9 @@ p a:visited {
 }
 
 @media(max-width:425px) {
-  #doughnut-wall .pb-5 {
-    padding-bottom: 0px !important;
-  }
-
-  #prosecco-wall .pt-5 {
-    padding-top: 0px !important;
-  }
-
   .splash-60 {
     height: 80vh !important;
   }
-
   .post img {
     margin-top: 20px !important;
     margin-bottom: 20px !important;
@@ -141,29 +131,23 @@ html .bg-dark {
   transform: translate(0, -50%);
 }
 
-.swirl {
+.swirl svg {
   fill-opacity: 0;
   fill: #fff !important;
   stroke: #fff;
   stroke-width: 1;
   stroke-dasharray: 700;
   stroke-dashoffset: 700;
-  animation: draw 3.5s linear;
+  animation: draw 1.5s linear;
   animation-name: draw;
-  animation-duration: 3.5s;
+  animation-duration: 2.75s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
-  animation-delay: 1s;
-}
-.swirl .st1 {
-  animation-delay: 1.4s;
-}
-.swirl .st2 {
-  animation-delay: 1.8s;
+  animation-delay: .4s;
 }
 
 @keyframes draw {
-  70% {
+  60% {
     stroke-dashoffset: 0;
     stroke-width: 1;
   }
