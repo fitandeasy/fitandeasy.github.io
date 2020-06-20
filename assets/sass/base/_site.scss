@@ -112,6 +112,7 @@ p a:visited {
 
 .page-title {
   font-size: 2rem !important;
+  text-shadow: 3px 2px 2px #33333347;
 }
 
 html .bg-dark {
@@ -120,6 +121,10 @@ html .bg-dark {
 
 .footer a {
   color: #efa967;
+}
+.footer-brand #logo{
+  width: 130px;
+  fill: #fff;
 }
 
 
