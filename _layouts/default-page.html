@@ -41,9 +41,27 @@
 
     {% include sub-banner.html %}
 
+    {% if page.subimage %}
+    <div id="doughnut-wall" class="section-2 jumbotron jumbotron-fluid bg-light mb-0 pb-0">
+      <div class="container">
+        <div class="row pt-5 pb-5">
+          <div class="col-12 col-sm-6 center mb-5 wow animate fadeIn" data-wow-delay=".5s">
+            <div>
+              {{ content }}
+            </div>
+          </div>
+          <div class="col-12 col-sm-6 order-first mb-5">
+            <img class="image-shadow wow animate fadeInRight" data-wow-delay=".5s" style="width: 100%;" src="{{site.baseurl}}/assets/images/subpage/{{page.subimage}}" alt="" style="width: 100%;">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {% else %}
     <div class="post container mt-5 mb-5 wow animate fadeIn">
       {{ content }}
     </div>
+    {% endif %}
 
     {% include try-for-free-section.html %}
 

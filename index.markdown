@@ -17,9 +17,9 @@ published: true
 permalink: /
 ---
 
-## Fit & Easy
+## Southampton Power Plate Studio and Gym
 
-<h3 style="color: #5c015e;">Training on Power Plates – prepared to be amazed!
+<h3 style="color: #5c015e;font-size:1.4em">Training on Power Plates – prepared to be amazed!
 </h3>
 
 If you want a trim, toned body but if you’re pushed for time or maybe just bored with the gym, step onto the Power Plate at Fit & Easy. A dedicated Power Plate studio just five minutes from Southampton city centre, Fit & Easy is clean, bright and calm, offering you the chance to get-away from it all, even if it is for only half an hour.
