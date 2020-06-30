@@ -164,3 +164,9 @@ html .bg-dark {
     transform: scale(2);
   }
 }
+
+@media (min-width: 426px){
+.section-1 .content, .section-3 .content {
+    padding-left: 3rem;
+}
+}
