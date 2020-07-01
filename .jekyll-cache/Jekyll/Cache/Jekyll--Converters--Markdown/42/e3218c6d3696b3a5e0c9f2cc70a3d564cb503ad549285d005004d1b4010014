@@ -1,0 +1,20 @@
+I"�<h2 class="mt-5">Contact Us - Southampton Power Plate Studio and Gym</h2>
+
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
+
+<div class="row pt-5 pb-5">
+	<div class="col-12 col-sm-6 center mb-5 wow animate fadeIn" data-wow-delay=".5s">
+		<div>
+		    <h3 class="mb-3">Physiotherapy at Fit &amp; Easy – introducing the Hendrickson Method®</h3>
+		    <p>The Hendrickson Method® is a gentle therapeutic technique that is used to treat postural alignment and soft tissue or musculoskeletal injuries. It combines orthopaedic massage, mobilisation and neuromuscular re-education to stimulate the creation of new cells, rehydrate cartilage and realign soft tissue, helping to break down adhesions.</p>
+		    <a href="/" class="btn btn-primary ">
+			Read More
+		    </a>
+	    </div>
+	</div>
+		<div class="col-12 col-sm-6 order-first mb-5">
+			<img class="image-shadow wow animate fadeInRight" data-wow-delay=".5s" style="width: 100%;" src="/assets/images/home/massage.jpg" alt="" />
+		</div>
+</div>
+
+:ET

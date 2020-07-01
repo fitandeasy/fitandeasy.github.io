@@ -9,6 +9,7 @@ html {
 
 a {
   color: #5c015e;
+  text-decoration: none;
 }
 a:hover{
   color:#ab56b5
@@ -97,6 +98,9 @@ p a:visited {
     margin-top: 20px !important;
     margin-bottom: 20px !important;
   }
+  .footer ul{
+    text-align: center!important;
+  }
 }
 
 .down-arrow {
@@ -116,11 +120,32 @@ html .bg-dark {
 }
 
 .footer a {
-  color: #efa967;
+  color: #fff;
+  border-bottom:2px solid #fff;
+}
+.footer a:hover{
+  color:#fff;
+  border-bottom:2px solid #2f032f;
+  text-decoration: none;
 }
 .footer-brand #logo{
   width: 130px;
   fill: #fff;
+}
+.footer-brand #logo:hover {
+  fill: #2f032f;
+}
+.footer-brand{
+  border-bottom:none!important;
+}
+.footer ul{
+  text-align: left!important;
+}
+.footer .social .fab:hover{
+  color:#2f032f!important;
+}
+.footer .fa-2x {
+  font-size: 1.5em!important;
 }
 
 
@@ -169,4 +194,24 @@ html .bg-dark {
 .section-1 .content, .section-3 .content {
     padding-left: 3rem;
 }
+}
+
+.purple-box{
+  background-color: #ece0ec;
+  padding: 1em;
+  box-shadow: 14px 14px #5d025f;
+}
+
+.timetable{
+  border: solid 3px #f5f5fa;
+  padding:20px;
+  width: 100%;
+    display: block;
+}
+
+.timetable td{
+  padding: 15px 20px;
+}
+.timetable tr:last-child{
+  background-color:#f5f5fa;
 }
