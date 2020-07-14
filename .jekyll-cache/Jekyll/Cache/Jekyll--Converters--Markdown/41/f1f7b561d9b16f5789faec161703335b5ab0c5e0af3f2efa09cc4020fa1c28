@@ -1,0 +1,69 @@
+I"<h2 id="power-plate---southampton">Power Plate - Southampton</h2>
+
+<p>The Power Plate® is a gently vibrating platform. Stand on the Power Plate® and immediately your muscles begin to contract and relax up to fifty times a second – this is Acceleration Training™. By holding certain positions whilst on the platform, specific body areas can be targeted to develop muscle tone and create definition.</p>
+
+<p>Twenty minutes is all you need and because no exertion is required, Power Plate ® users rarely perspire so there’s no need to change, just kick-off your shoes!</p>
+
+<div class="panel-group" id="accordion">
+	<div class="panel">
+
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodyOne">
+			<div class="panel-heading">
+				<h4 class="panel-title">Item 1</h4>
+			</div>
+		</a>
+
+		<div aria-expanded="false" class="panel-collapse collapse" id="panelBodyOne" style="height: 0px;">
+			<div class="panel-body">
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut vitae deleniti vel ullam, eveniet
+					consectetur eius voluptatibus ipsa ab aspernatur non veritatis unde repellendus dolores officia
+					reiciendis atque, illo molestiae!</p>
+			</div>
+		</div>
+	</div>
+</div>
+
+<style>
+	.panel-heading {
+		padding: 0.75rem 2rem;
+		background-color: #f5f5fa;
+		border-radius:4px;
+	}
+	.panel-body{
+		padding: 0.75rem 2rem;
+		background-color: #f5f5fa;
+	}
+	.panel-heading:hover{
+		background-color: #5d025f;
+		color:#fff;
+		text-decoration: unset;
+	}
+	.panel-heading:hover h4{
+		color:#fff;
+	}
+
+	.panel-heading:hover h4::before{
+		color:#fff!important;
+	}
+
+	.panel a{
+		text-decoration:none!important;
+	}
+
+	#accordion .panel-heading h4::before {
+		font-family: "FontAwesome";
+		font-weight: 900;
+		content: "\f078";
+		float: left;
+		color: #5d025f;
+		font-weight: lighter;
+		transform: rotate(180deg);
+		transition: all 0.2s ease-in;
+		margin-right: 30px;
+	}
+	#accordion .panel-heading .accordion-toggle.collapsed h4::before {
+    transform: rotate(0deg)!important;
+	}
+</style>
+
+:ET

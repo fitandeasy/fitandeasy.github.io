@@ -56,36 +56,56 @@ permalink: /physiotherapy/
             </li>
             <li>Health Professions Council no PH74771
             </li>
-            <li>FIA (Fitness industry Association)</li>
     </ul>
+    <div class="relief mb-4 mt-2">
         <h4>For relief on</h4>
-    <ul>
-            <li>Back Pain</li>
-            <li>Joint Pain</li>
-            <li>Rota cuff/ shoulder pain</li>
-            <li>Hip pain</li>
-            <li>Knee pain</li>
-            <li>Ankle injuries</li>
-            <li>Sciatic pain</li>
-            <li>Restricted Mobility</li>
+    <ul class="mb-0" style="list-style:none;">
+            <li><strong><i class="fas fa-check" aria-hidden="true"></i> Back Pain</strong></li>
+            <li><strong><i class="fas fa-check" aria-hidden="true"></i> Joint Pain</strong></li>
+            <li><strong><i class="fas fa-check" aria-hidden="true"></i> Rota cuff/ shoulder pain</strong></li>
+            <li><strong><i class="fas fa-check" aria-hidden="true"></i> Hip pain</strong></li>
+            <li><strong><i class="fas fa-check" aria-hidden="true"></i> Knee pain</strong></li>
+            <li><strong><i class="fas fa-check" aria-hidden="true"></i> Ankle injuries</strong></li>
+            <li><strong><i class="fas fa-check" aria-hidden="true"></i> Sciatic pain</strong></li>
+            <li><strong><i class="fas fa-check" aria-hidden="true"></i> Restricted Mobility</strong></li>
     </ul>
+    </div>
+    <div class="other mb-4 mt-2">
         <h4>Other Therapies</h4>
-    <ul>
-            <li>Postural Analysis</li>
-            <li>Rehabilitation Programmes</li>
-            <li>Orthopaedic Massage</li>
-            <li>Sports Massage</li>
-            <li>Knee pain</li>
-            <li>Ankle injuries</li>
-            <li>Sciatic pain</li>
-            <li>Restricted Mobility</li>
+    <ul style="list-style:none;">
+            <li><strong><i class="fas fa-plus"></i>Postural Analysis</strong></li>
+            <li><strong><i class="fas fa-plus"></i>Rehabilitation Programmes</strong></li>
+            <li><strong><i class="fas fa-plus"></i>Orthopaedic Massage</strong></li>
+            <li><strong><i class="fas fa-plus"></i>Sports Massage</strong></li>
+            <li><strong><i class="fas fa-plus"></i>Knee pain</strong></li>
+            <li><strong><i class="fas fa-plus"></i>Ankle injuries</strong></li>
+            <li><strong><i class="fas fa-plus"></i>Sciatic pain</strong></li>
+            <li><strong><i class="fas fa-plus"></i>Restricted Mobility</strong></li>
     </ul>
-        <img src="{{site.baseurl}}/assets/images/subpage/hpcheck-logo.png" alt="HP Check">
+        <img style="margin-left:20px;max-width: 150px;" class=" mt-0 mb-0" src="{{site.baseurl}}/assets/images/subpage/hp-check.svg" alt="HP Check">
+    </div>
     </div>
 </div>
 
-
-
+<style>
+    .relief{
+    background-color: #f5f5fa;
+    padding: 1em;
+    }
+    .relief ul, .other ul{
+            padding-left: 10px;
+    }
+    .relief .fas{
+        margin-right:10px;
+    }
+    .other .fas{
+            margin-right: 18px;
+    }
+    .other{
+    background-color: #f8f4f8;
+    padding: 1em;
+    }
+    </style>
 
 
 

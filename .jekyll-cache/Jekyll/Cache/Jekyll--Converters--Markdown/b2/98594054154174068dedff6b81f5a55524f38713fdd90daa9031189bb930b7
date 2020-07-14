@@ -1,0 +1,43 @@
+I"	
+<div class="post container mt-5 mb-5 wow animate fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+
+<h2>Power Plate - Southampton</h2>
+
+<p>The Power Plate® is a gently vibrating platform. Stand on the Power Plate® and immediately your muscles begin to contract and relax up to fifty times a second – this is Acceleration Training™. By holding certain positions whilst on the platform, specific body areas can be targeted to develop muscle tone and create definition.</p>
+
+<p>Twenty minutes is all you need and because no exertion is required, Power Plate ® users rarely perspire so there’s no need to change, just kick-off your shoes!</p>
+
+</div>
+
+<div class="swirl swirl2 wow animate fadeIn">
+    <svg version="1.1" class="wow animate fadeIn" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 595.3 98" style="enable-background:new 0 0 595.3 98;" xml:space="preserve">
+
+      <path class="st1" d="M-0.1,31c27.3,0,276.8,0,353.6,16.5C434.8,65,422.8,78,452,79s80.3-48.5,95.5-48.5c14.1,0,26.3,16.7,47.7,19.2" />
+      <path class="st1" d="M0,62.5c27.5,0,276.8,0,353.5-16.5c81.3-17.5,69.3-30.5,98.5-31.5S532.3,63,547.5,63
+	c14.1,0,26.3-16.7,47.7-19.2" />
+      <path class="st2" d="M-0.1,36.5c25,0.1,291.2,1.1,324.1,2.5c0,0,106.5,14,127,14c18.9,0,114.6-10.2,144.1-18.5" />
+      <path class="st2" d="M-0.1,57c25-0.1,291.2-1.1,324.1-2.5c0,0,106.5-14,127-14c18.9,0,114.7,10.2,144.2,18.5" />
+      <path class="st2" d="M0,41.9c16.8,0.6,161.5,5.9,229.5,19.8c72.3,14.8,131.3,12.3,171.3,4s78.8-13.5,123-9
+	c31.8,3.2,58.8,7.5,71.5,9.6" />
+      <path class="st2" d="M0,53.3c16.8-0.6,161.5-5.9,229.5-19.8c72.3-14.7,131.3-12.2,171.3-4s78.8,13.5,123,9
+	c31.7-3.2,58.7-7.5,71.4-9.6" />
+      <path class="st1" d="M-0.1,54.9c38.1,1.8,72.8-0.7,72.8-0.7c58-2.2,85.8-6.5,106.3-10.2s117.7-9.7,145-9.2s46.2,7.8,67.5,18
+	s38.7,17.8,61,16.3s72.8-12.7,89.3-22.2S590,26.7,590,26.7l5.3-2" />
+      <path class="st1" d="M-0.1,39.1c38.1-1.8,72.7,0.8,72.7,0.8c58,2.2,85.8,6.5,106.3,10.2c20.5,3.7,117.7,9.7,145,9.2
+	s46.2-7.8,67.5-18s38.7-17.8,61-16.3s72.8,12.7,89.3,22.2S590,67.4,590,67.4l5.2,2.3" />
+    </svg>
+  </div>
+
+<div class="row">
+    <div class="col-lg-4">
+        <img style="width:100%;" src="/assets/images/masonary-image/better.png" />
+    </div>
+    <div class="col-lg-4">
+        <img style="width:100%;" src="/assets/images/masonary-image/better.png" />
+    </div>
+    <div class="col-lg-4">
+        <img style="width:100%;" src="/assets/images/masonary-image/better.png" />
+    </div>
+</div>
+
+:ET

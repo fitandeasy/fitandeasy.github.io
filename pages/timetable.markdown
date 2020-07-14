@@ -19,7 +19,7 @@ permalink: /timetable/
 ---
 
 <div class="row pt-5 pb-5">
-	<div class="col-12 col-sm-6 center mb-5 wow animate fadeIn" data-wow-delay=".5s">
+	<div class="col-12 col-sm-6 mb-5 wow animate fadeIn" data-wow-delay=".5s">
 		<div>
 		    <table class="timetable mb-3">
 	<tbody>
@@ -29,7 +29,7 @@ permalink: /timetable/
 		</tr>
 		<tr>
 			<td>Saturday </td>
-			<td>8.00 am – 4.00 pm</td>
+			<td>8.00 am – 12.00 pm</td>
 		</tr>
 		<tr>
 			<td>Sundays</td>

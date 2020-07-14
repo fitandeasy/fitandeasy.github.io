@@ -157,6 +157,38 @@ html .bg-dark {
   transform: translate(0, -50%);
 }
 
+.swirl.swirl2 svg {
+  fill-opacity: 0;
+  fill: #5d025f !important;
+  stroke: #5d025f!important;
+  stroke-width: 1;
+  stroke-dasharray: 700;
+  stroke-dashoffset: 700;
+  animation: draw 1.5s linear;
+  animation-name: draw2;
+  animation-duration: 2.75s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+  animation-delay: .4s;
+}
+@keyframes draw2 {
+  60% {
+    stroke-dashoffset: 0;
+    stroke-width: 1;
+  }
+
+  100% {
+    stroke-dashoffset: 0;
+    stroke-width: 1;
+  }
+}
+
+.swirl2{
+  visibility: visible;
+  animation-name: fadeIn;
+  display: contents;
+}
+
 .swirl svg {
   fill-opacity: 0;
   fill: #fff !important;
@@ -206,11 +238,10 @@ html .bg-dark {
   border: solid 3px #f5f5fa;
   padding:20px;
   width: 100%;
-    display: block;
 }
 
 .timetable td{
-  padding: 15px 20px;
+  padding: 25px 20px;
 }
 .timetable tr:last-child{
   background-color:#f5f5fa;
