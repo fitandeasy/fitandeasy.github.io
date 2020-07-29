@@ -24,4 +24,6 @@ The Power Plate® is a gently vibrating platform. Stand on the Power Plate® and
 
 Twenty minutes is all you need and because no exertion is required, Power Plate ® users rarely perspire so there’s no need to change, just kick-off your shoes!
 
+{% include how-it-works.html %}
+
 {% include faqs-section.html %}

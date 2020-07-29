@@ -1,24 +1,4 @@
----
-layout: contact-page
-title:  "Contact Us"
-subtitle: "Lorem ipsum dolor sit amet"
-seotitle: "Contact Us | Fit & Easy"
-category: jekyll post 
-category-type: product
-img: contact-banner.jpg
-subimage: 
-video: 
-author: matthew_lean
-description: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat tempora sint magnam! Ex, tempore! Soluta voluptas obcaecati id praesentium, amet excepturi repellendus enim qui voluptatum minus nihil adipisci aliquid corrupti.
-# Extras.
-color-1: 4c4c4c66
-color-2: f2f2f200
-comments: true
-published: true
-permalink: /contact-us/
----
-
-<h2 class="mt-5 pt-5">Contact Us - Southampton Power Plate Studio and Gym</h2>
+I"Ÿ<h2 class="mt-5 pt-5">Contact Us - Southampton Power Plate Studio and Gym</h2>
 
 <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.</p>
 
@@ -45,12 +25,8 @@ permalink: /contact-us/
 				</p>
 	</div>
 		<div class="col-12 col-sm-6 order-first mb-5">
-			<img class="image-shadow wow animate fadeInRight mt-0" data-wow-delay=".5s" style="width: 100%;" src="{{site.baseurl}}/assets/images/home/massage.jpg" alt="" style="width: 100%;">
+			<img class="image-shadow wow animate fadeInRight mt-0" data-wow-delay=".5s" style="width: 100%;" src="/assets/images/home/massage.jpg" alt="" />
 		</div>
 </div>
 
-
-
-
-
-
+:ET

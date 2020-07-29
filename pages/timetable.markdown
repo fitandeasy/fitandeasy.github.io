@@ -5,7 +5,7 @@ subtitle: "Lorem ipsum dolor sit amet"
 seotitle: "How it Works | Fit & Easy"
 category: jekyll post 
 category-type: product
-img: gym-timetable.jpg
+img: timetable-banner.jpg
 subimage: 
 video: 
 author: matthew_lean
