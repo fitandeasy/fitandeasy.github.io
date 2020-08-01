@@ -2,20 +2,22 @@
 layout: default-page
 title:  "Physiotherapy"
 subtitle: "Lorem ipsum dolor sit amet"
-seotitle: "Physiotherapy | Fit & Easy"
+seotitle: "Physiotherapy | Fit & Easy - Power Plate Fitness Studio and Gym, Southampton"
 category: jekyll post 
 category-type: product
 img: physiotherapy.jpg
 subimage:
 video: 
 author: matthew_lean
-description: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat tempora sint magnam! Ex, tempore! Soluta voluptas obcaecati id praesentium, amet excepturi repellendus enim qui voluptatum minus nihil adipisci aliquid corrupti.
+description: Stephen Holloway is one of just 26 therapists offering the Hendrickson Method of treatment in the UK and the only Hendrickson Practitioner in Hampshire.
 # Extras.
 color-1: 4c4c4c66
 color-2: f2f2f200
 comments: true
 published: true
 permalink: /physiotherapy/
+redirect_from:
+  - /physiotherapy
 ---
 
 <div class="row pt-5 pb-5">

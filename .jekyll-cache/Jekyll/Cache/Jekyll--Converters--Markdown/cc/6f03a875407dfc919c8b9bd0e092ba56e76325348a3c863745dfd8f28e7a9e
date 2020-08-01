@@ -1,8 +1,78 @@
+I"P7<h2 id="power-plate---southampton">Power Plate - Southampton</h2>
+
+<p>The Power Plate® is a gently vibrating platform. Stand on the Power Plate® and immediately your muscles begin to contract and relax up to fifty times a second – this is Acceleration Training™. By holding certain positions whilst on the platform, specific body areas can be targeted to develop muscle tone and create definition.</p>
+
+<p>Twenty minutes is all you need and because no exertion is required, Power Plate ® users rarely perspire so there’s no need to change, just kick-off your shoes!</p>
+
+<div class="row mt-5 mb-5">
+    <div class="col-lg-4 center order-first mb-5 wow animate fadeInLeft" data-wow-delay=".5s">
+        <i class="fas fa-5x fa-chart-line brand-color"></i>
+    </div>
+    <div class="col-lg-8 wow animate fadeInRight" data-wow-delay=".5s">
+        <h4 class="first-row-why-copy1">POWER PLATE ACCELERATES YOUR TRAINING</h4>
+        <p class="first-row-why-copy2">Many traditional exercises can be done on the Power Plate, and the results are
+            magnified. It’s thanks to our proprietary PrecisionWave™ Technology, which is engineered precisely to
+            activate the body’s natural reflexive response to vibration. The surface vibrates 25 to 50 times per second
+            (25Hz to 50Hz), resulting in a natural response that works your muscles harder while doing the same
+            exercises. </p>
+    </div>
+</div>
+
+<hr />
+
+<div class="row mt-5 mb-5">
+    <div class="col-lg-8 wow animate fadeInLeft" data-wow-delay=".5s">
+        <h4 class="first-row-why-copy1">POWER PLATE CAN HELP YOU LOSE WEIGHT</h4>
+        <p class="first-row-why-copy2">Significant weight loss is often reported by those who use Power Plate regularly in conjunction with a healthy, calorie-controlled diet. One of the reasons for this is increased lymphatic flow. Research also shows, when used as part of an active lifestyle, Power Plate may have a significant impact upon the reduction of cellulite and body fat. This may occur due to an increases in metabolism, both during and following exercise.
+
+        </p>
+    </div>
+    <div class="col-lg-4 center order-first mb-5 wow animate fadeInRight" data-wow-delay=".5s">
+        <i class="fas fa-5x fa-weight brand-color"></i>
+    </div>
+</div>
+
+<div class="row mt-5 mb-5">
+    <div class="col-lg-4 center order-first mb-5 wow animate fadeInLeft" data-wow-delay=".5s">
+        <i class="fas fa-5x fa-dumbbell brand-color"></i>
+    </div>
+    <div class="col-lg-8 wow animate fadeInRight" data-wow-delay=".5s">
+        <h4 class="first-row-why-copy1">INCREASE YOUR STRENGTH AND FLEXIBILITY</h4>
+        <p class="first-row-why-copy2">The Power Plate vibrates up and down, side-to-side, and front-to-back, destabilizing the body and promoting the reflexive engagement of soft tissue. Involuntary muscle activity promotes quick, reflexive responses in muscle fibers and an increase in circulation. That means development in whole–body balance, mobility and stability, strength and motor control (muscle memory), in a shorter time frame than with traditional methods.
+
+        </p>
+    </div>
+</div>
+
+<div class="row mt-5 mb-5">
+    <div class="col-lg-8 wow animate fadeInLeft" data-wow-delay=".5s">
+        <h4 class="first-row-why-copy1">YOU'LL RECOVER FASTER</h4>
+        <p class="first-row-why-copy2">Exercise is stress, and the body needs time to rebuild to positively adapt to training. Massage on a Power Plate stimulates lymphatic flush, eases pain, promotes faster recovery of damaged muscles and tendons, improves joint function, and helps you return stronger–all in only a few minutes a day. And even beyond that, you can exercise using a Power Plate with less chance of strain due to the patented multi–directional vibration. With regular use, you’ll find that you prepare faster, perform better and recover quicker.
+        </p>
+    </div>
+    <div class="col-lg-4 center order-first mb-5 fadeInRight" data-wow-delay=".5s">
+        <i class="fas fa-5x fa-plus-square brand-color"></i>
+    </div>
+</div>
+
+<div class="row mt-5 mb-5">
+    <div class="col-lg-4 center order-first mb-5 wow animate fadeInLeft" data-wow-delay=".5s">
+        <i class="far fa-5x fa-clock brand-color"></i>
+    </div>
+    <div class="col-lg-8 fadeInRight" data-wow-delay=".5s">
+        <h4 class="first-row-why-copy1">EXPERIENCE A COMPLETE WORKOUT
+            IN JUST 15 MINUTES
+            
+            </h4>
+        <p class="first-row-why-copy2">With whole body vibration training, you get a complete, full-body workout incorporating stretch, balance, core, strength-building and massage, all in only as little as 15 minutes. Some models even have a virtual trainer with more than 1,000 built-in videos.
+        </p>
+    </div>
+</div>
+
 <div class="panel-group mt-5" id="accordion">
 	<!-- 1 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".5s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodyOne">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodyOne">
 			<div class="panel-heading">
 				<h4 class="panel-title">How does power plate work?</h4>
 			</div>
@@ -15,9 +85,8 @@
 		</div>
 	</div>
 	<!-- 2 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".55s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodyTwo">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodyTwo">
 			<div class="panel-heading">
 				<h4 class="panel-title">Will using power plate help me lose weight?</h4>
 			</div>
@@ -30,9 +99,8 @@
 		</div>
 	</div>
 	<!-- 3 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".6s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodyThree">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodyThree">
 			<div class="panel-heading">
 				<h4 class="panel-title">Can I use power plate without performing any other exercises?</h4>
 			</div>
@@ -45,9 +113,8 @@
 		</div>
 	</div>
 	<!-- 4 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".65s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodyFour">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodyFour">
 			<div class="panel-heading">
 				<h4 class="panel-title">Who can use power plate?</h4>
 			</div>
@@ -60,9 +127,8 @@
 		</div>
 	</div>
 	<!-- 5 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".7s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodyFive">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodyFive">
 			<div class="panel-heading">
 				<h4 class="panel-title">Is vibration training safe?</h4>
 			</div>
@@ -75,9 +141,8 @@
 		</div>
 	</div>
 	<!-- 6 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".75s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodySix">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodySix">
 			<div class="panel-heading">
 				<h4 class="panel-title">I have seen many other vibration platforms for sale. How does power plate differ from these?</h4>
 			</div>
@@ -90,9 +155,8 @@
 		</div>
 	</div>
 	<!-- 7 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".8s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodySeven">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodySeven">
 			<div class="panel-heading">
 				<h4 class="panel-title">Where can I find a power plate to try or buy?</h4>
 			</div>
@@ -105,9 +169,8 @@
 		</div>
 	</div>
 	<!-- 8 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".85s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodyEight">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodyEight">
 			<div class="panel-heading">
 				<h4 class="panel-title">Can I use power plate every day?</h4>
 			</div>
@@ -120,9 +183,8 @@
 		</div>
 	</div>
 	<!-- 9 -->
-	<div class="panel wow animate fadeInUp" data-wow-delay=".9s">
-		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse"
-			href="#panelBodyNine">
+	<div class="panel">
+		<a aria-expanded="false" class="accordion-toggle collapsed" data-parent="#accordion" data-toggle="collapse" href="#panelBodyNine">
 			<div class="panel-heading">
 				<h4 class="panel-title">Is there any proof power plate works?</h4>
 			</div>
@@ -189,3 +251,5 @@
     transform: rotate(0deg)!important;
 	}
 </style>
+
+:ET

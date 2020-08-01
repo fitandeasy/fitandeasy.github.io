@@ -1,7 +1,7 @@
 ---
 layout: home
 title:  "Fit & Easy"
-subtitle: "Fit And Easy - Physiotherapy and Power Plate Studio"
+subtitle: "Physiotherapy and Power Plate Studio"
 seotitle: "Fit & Easy | Power Plate Fitness Studio and Gym, Southampton"
 category: post main website 
 category-type: Website
@@ -15,6 +15,8 @@ color-2: f2f2f200
 comments: true
 published: true
 permalink: /
+redirect_from:
+  - /try-for-free
 ---
 
 ## Southampton Power Plate Studio

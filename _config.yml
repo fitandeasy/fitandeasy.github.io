@@ -6,11 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
+title: Fit And Easy - Physiotherapy and Power Plate Studio
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A dedicated Power Plate studio just five minutes from Southampton city centre, Fit & Easy is clean, bright and calm, offering you the chance to get-away from it all, even if it is for only half an hour.
 baseurl: "" # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site
 
@@ -33,5 +31,6 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 incremental: true

@@ -2,20 +2,22 @@
 layout: default-page
 title:  "The Benefits"
 subtitle: "Lorem ipsum dolor sit amet"
-seotitle: "The Benefits | Fit & Easy"
+seotitle: "The Benefits | Fit & Easy - Power Plate Fitness Studio and Gym, Southampton"
 category: jekyll post 
 category-type: product
 img: the-benefits-banner.jpg
 subimage: better.png
 video: 
 author: matthew_lean
-description: Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quaerat tempora sint magnam! Ex, tempore! Soluta voluptas obcaecati id praesentium, amet excepturi repellendus enim qui voluptatum minus nihil adipisci aliquid corrupti.
+description: Power Plate will improve your skin quality, reduce stress and enhance your flexibility. Contact our team today on 02380 234258.
 # Extras.
 color-1: 4c4c4c66
 color-2: f2f2f200
 comments: true
 published: true
 permalink: /the-benefits/
+redirect_from:
+  - /the-benefits
 ---
 
 <h2 class="mb-4">Benefits of Training on Power Plates</h2>
