@@ -1,27 +1,4 @@
----
-layout: contact-page
-title:  "Contact Us"
-subtitle: "Lorem ipsum dolor sit amet"
-seotitle: "Contact Us | Fit & Easy - Power Plate Fitness Studio and Gym, Southampton"
-category: jekyll post 
-category-type: product
-img: contact-banner.jpg
-subimage: 
-video: 
-author: matthew_lean
-description: Give Power Plate fitness a go in Southampton or try out our gym for Free. Contact our friendly Southampton team today on 02380 234258.
-# Extras.
-color-1: 4c4c4c66
-color-2: f2f2f200
-comments: true
-published: true
-permalink: /contact-us/
-redirect_from:
-  - /contact
-  - /how-to-find-us
----
-
-<h2 class="mt-5 pt-5">Contact Us - Southampton Power Plate Studio and Gym</h2>
+I"Á<h2 class="mt-5 pt-5">Contact Us - Southampton Power Plate Studio and Gym</h2>
 
 <p>If you would like to give Power Plate fitness a go or just want to see what the gym is all about then why not try us out for FREE! Just get in touch by phone or email and we'll take you through everything you need to know.</p>
 
@@ -48,12 +25,8 @@ redirect_from:
         </div>
 	</div>
 		<div class="col-12 col-sm-6 order-first mb-5">
-			<img class="image-shadow wow animate fadeInRight mt-0" data-wow-delay=".5s" style="width: 100%;" src="{{site.baseurl}}/assets/images/home/massage.jpg" alt="" style="width: 100%;">
+			<img class="image-shadow wow animate fadeInRight mt-0" data-wow-delay=".5s" style="width: 100%;" src="/assets/images/home/massage.jpg" alt="" />
 		</div>
 </div>
 
-
-
-
-
-
+:ET

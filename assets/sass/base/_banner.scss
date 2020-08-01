@@ -217,11 +217,21 @@
 }
 
 
+@media (max-width:990px){
+  .sub-banner .content .btn{
+    margin-top: 1em!important;
+  }
+}
+
 
 /*Medium Screen */
 @media (max-width: 1021px) {
   .sub-nav {
     display: none;
+  }
+  .sub-banner .center{
+    display: block!important;
+    text-align: center;
   }
 }
 
