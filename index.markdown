@@ -8,7 +8,7 @@ category-type: Website
 img: banner.jpg
 video: 
 author: matthew_lean
-description: Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati nobis, eos eveniet atque sapiente cupiditate impedit soluta, beatae iure excepturi reprehenderit facere, architecto maxime necessitatibus ab. Accusantium quam error illum? 
+description: A dedicated Power Plate studio just five minutes from Southampton city centre, Fit & Easy is clean, bright and calm, offering you the chance to get-away from it all, even if it is for only half an hour. 
 # Extras.
 color-1: 4c4c4c
 color-2: f2f2f200
