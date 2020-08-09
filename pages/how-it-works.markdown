@@ -5,7 +5,7 @@ subtitle: "Lorem ipsum dolor sit amet"
 seotitle: "How it Works | Fit & Easy - Power Plate Fitness Studio and Gym, Southampton"
 category: jekyll post 
 category-type: product
-img: gym-arrow.jpg
+img: how-it-works-banner.jpg
 subimage:
 video: 
 author: matthew_lean

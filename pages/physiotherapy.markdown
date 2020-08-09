@@ -37,7 +37,7 @@ redirect_from:
     </div>
     <div class="col-12 col-sm-6 order-first mb-5">
         <img class="image-shadow wow animate fadeInRight mt-0" data-wow-delay=".5s" style="width: 100%;"
-            src="{{site.baseurl}}/assets/images/home/massage.jpg" alt="" style="width: 100%;">
+            src="{{site.baseurl}}/assets/images/subpage/physiotherapy.jpg" alt="" style="width: 100%;">
         <div class="purple-box mb-5">
             <strong>Stephen Holloway</strong>
             <p>Senior Associate of the Royal Society of Medicine.</p>
